@@ -65,23 +65,5 @@ When you run the script, it:
 
 ## Use case
 
-This repo is useful if you want to:
-
-- reproduce the appendix figure from the paper
-- inspect the scenario setup used in the paper
-- adapt the model for your own communication scenarios
+- adapt the model for communication scenarios
 - experiment with how network structure, amplification, friction, and damping affect narrative stability
-
-## Notes
-
-The repository is currently lightweight and code-focused. There is no package structure, notebook, or test suite yet; the main entry point is the single Python script in the root of the repo.
-
-## Suggested next improvements
-
-Useful additions later could include:
-
-- a `requirements.txt`
-- a sample output image committed to the repo
-- clearer mapping between code variables and paper equations
-- a notebook version for easier exploration
-- parameter files for custom scenarios
