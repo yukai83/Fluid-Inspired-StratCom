@@ -1,6 +1,6 @@
 # Fluid-Inspired-StratCom
 
-A small Python project for simulating a **fluid-inspired strategic communications model**.
+Simulating a **fluid-inspired strategic communications model**.
 
 The code runs three example scenarios and reproduces the appendix figure from the paper, along with simple console diagnostics. The current repository contains one main Python script: `Fluid-inspired_StratCom_Appendix_A.py`.
 
